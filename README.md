@@ -24,7 +24,7 @@ This project uses __ to generate network graph. The following layouts are used.
 本项目仅用于演示和研究目的。内容版权归ZUN所有。
 
 ##### 相关百科网站 | TouHou wikis
-[萌娘百科万物皆可萌的百科全书- zh.moegirl.org.cn - 东方Project](https://zh.moegirl.org.cn/%E4%B8%9C%E6%96%B9Project)
+[萌娘百科万物皆可萌的百科全书- zh.moegirl.org.cn - 东方Project](https://zh.moegirl.org.cn/%E4%B8%9C%E6%96%B9Project)\
 [以专业性为目标的东方Project维基百科](https://thwiki.cc/)
 
 ##### 原項目 | Similar project
