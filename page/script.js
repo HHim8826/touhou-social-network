@@ -6,7 +6,7 @@ const langs = ['zh', 'en']
 let lang = 'zh';
 
 if (!navigator.language.startsWith('en')) {
-    lang = 'en'
+    lang = 'zh'
     document.getElementById('lang-slider').value = 0
 }
 
