@@ -4,10 +4,12 @@
 const langs = ['zh', 'en']
 
 let lang = 'zh';
-if (!navigator.language.startsWith('zh')) {
+
+if (!navigator.language.startsWith('en')) {
     lang = 'en'
-    document.getElementById('lang-slider').value = 1
+    document.getElementById('lang-slider').value = 0
 }
+
 document.body.classList.add(lang)
 
 document.getElementById('lang-slider-container').addEventListener('click', function () {
