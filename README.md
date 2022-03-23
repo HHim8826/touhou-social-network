@@ -1,4 +1,4 @@
-**—> [king-of-infinite-space.github.io/genshin-social-network](https://king-of-infinite-space.github.io/genshin-social-network) <—**
+**—> [HHim8826/touhou-social-network](https://hhim8826.github.io/touhou-social-network/) <—**
 
 ---
 
