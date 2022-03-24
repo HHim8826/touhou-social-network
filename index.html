@@ -143,7 +143,11 @@
             </div> -->
         </div>
     </div>
-    <script src="page/script.js"></script>
+    <script type="text/javascript">
+        const sc = document.createElement('script')
+        sc.src = src_base + 'script.js'
+        document.body.appendChild(sc)
+    </script>
 </body>
 
 </html>
